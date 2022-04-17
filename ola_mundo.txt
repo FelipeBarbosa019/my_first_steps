@@ -1,0 +1,1 @@
+Testando meus primeiros comandos no GIT, adicionando arquivo formato txt.
